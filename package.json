@@ -1,0 +1,16 @@
+{
+  "name": "docsify-theme-light",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve ./documentation"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docsify": "^4.11.6",
+    "docsify-darklight-theme": "^3.0.6"
+  }
+}
