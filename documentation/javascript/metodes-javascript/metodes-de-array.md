@@ -28,7 +28,7 @@ const gastoTotal = gastos.reduce(reducer)
 
 ## Referencias
 
-[Ejemplos Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduce)
+[Ejemplos Mozilla Método Reduce](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduce)
 
 
 
