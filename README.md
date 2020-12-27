@@ -1,0 +1,1 @@
+Repositori centralitzat de documentació del projecte SINGULATS
