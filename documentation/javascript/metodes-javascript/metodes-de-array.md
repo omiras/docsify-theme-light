@@ -1,5 +1,7 @@
 # Métodes de array
 
+## Método reduce
+
 El méotdo **reduce** sirve para acumular un valor 
 
 ```
