@@ -15,7 +15,7 @@ La función **acumular** se va a invocar 3 veces, una por cada elemento del arra
 En el parámetro **acumulador** se va a ir guardando el valor correspondiente a la **evaluación del return de la línea 8**
 Es decir, acumulador pasará a valer: 1, luego 3, y luego 6
 
-## Caso práctico
+### Caso práctico
 
 Imaginar que tenemos en un array el total de gastos de una factura.
 Podríamos utilizar el método **reduce** para sumar todos sus valores.
@@ -26,7 +26,7 @@ const reducer = (accumulator, currentValue) => accumulator + currentValue;
 const gastoTotal = gastos.reduce(reducer)
 ```
 
-### Referencias
+## Referencias
 
 [Ejemplos Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduce)
 
